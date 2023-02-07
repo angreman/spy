@@ -815,3 +815,12 @@ js_config:
   Script: angreman_KR/jd_cjzdgf.js
   TimeOut: 0
   Wait: 5
+- Container:
+  - []
+  Env: M_WX_GAME_URL
+  KeyWord:
+  - - M_WX_GAME_URL
+  Name: 【M库】M无线游戏
+  Script: walle1798_WALL.E/m_jd_wx_game.js
+  TimeOut: 0
+  Wait: 2
