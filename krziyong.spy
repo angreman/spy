@@ -807,10 +807,10 @@ js_config:
   Wait: 5
 - Container:
   - []
-  Env: jd_zdjr_activityId
+  Env: jd_cjhy_activityId
   KeyWord:
-  - - jd_zdjr_activityId
-  - - jd_zdjr_activityUrl
+  - - jd_cjhy_activityId
+  - - jd_cjhy_activityUrl
   Name: 【KR库】CJ组队瓜分京豆-加密
   Script: angreman_KR/jd_cjzdgf.js
   TimeOut: 0
