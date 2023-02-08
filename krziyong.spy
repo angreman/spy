@@ -824,12 +824,3 @@ js_config:
   Script: walle1798_WALL.E/m_jd_wx_game.js
   TimeOut: 0
   Wait: 2
-- Container:
-  - []
-  Env: jd_sevenDay_activityUrl
-  KeyWord:
-  - - jd_sevenDay_activityUrl
-  Name: 【KR库】超级无线店铺签到-监控版
-  Script: angreman_KR/jd_sevenDayjk.js
-  TimeOut: 0
-  Wait: 2
