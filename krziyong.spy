@@ -460,9 +460,7 @@ js_config:
   Env: jd_cjhy_wxShopGift_ids
   KeyWord:
   - - jd_cjhy_wxShopGift_ids
-  - - jd_wxShopGift_activityUrl
-  Name: 【环境+KR】cjhy店铺礼包
-  RegularRules: 'cjhy@[\d|a-z]{32}@0'
+  Name: 【环境】cjhy店铺礼包
   Script: jd_cjhy_wxShopGift.js
   TimeOut: 0
   Wait: 2
@@ -480,9 +478,7 @@ js_config:
   Env: jd_lzkj_wxShopGift_ids
   KeyWord:
   - - jd_lzkj_wxShopGift_ids
-  - - jd_wxShopGift_activityUrl
   Name: 【环境+KR】lzkj店铺礼包
-  RegularRules: 'lzkj@[\d|a-z]{32}@0'
   Script: jd_lzkj_wxShopGift.js
   TimeOut: 0
   Wait: 2
