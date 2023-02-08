@@ -828,7 +828,7 @@ js_config:
   - []
   Env: jd_sevenDay_activityUrl
   KeyWord:
-  - - jd_sevenDay_activityUrlv
+  - - jd_sevenDay_activityUrl
   Name: 【KR库】超级无线店铺签到-监控版
   Script: angreman_KR/jd_sevenDayjk.js
   TimeOut: 0
