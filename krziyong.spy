@@ -796,7 +796,6 @@ js_config:
   Env: jd_zdjr_activityId
   KeyWord:
   - - jd_zdjr_activityId
-  - - jd_zdjr_activityUrl
   Name: 【KR库】LZ组队瓜分京豆-加密
   Script: angreman_KR/jd_zdjr.js
   TimeOut: 0
@@ -806,7 +805,6 @@ js_config:
   Env: jd_cjhy_activityId
   KeyWord:
   - - jd_cjhy_activityId
-  - - jd_cjhy_activityUrl
   Name: 【KR库】CJ组队瓜分京豆-加密
   Script: angreman_KR/jd_cjzdgf.js
   TimeOut: 0
