@@ -827,3 +827,12 @@ js_config:
   Script: angreman_KR/jd_sevenDayjk.js
   TimeOut: 0
   Wait: 5
+- Container:
+  - []
+  Env: M_WX_LEVEL_BIRTH_URL
+  KeyWord:
+  - - M_WX_LEVEL_BIRTH_URL
+  Name: 【M】M等级/生日礼包
+  Script: walle1798_WALL.E/m_jd_wx_levelBirth.js
+  TimeOut: 0
+  Wait: 5
