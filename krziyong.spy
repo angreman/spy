@@ -851,6 +851,6 @@ js_config:
   KeyWord:
   - - jd_wxShopFollowId
   Name: 【船长】关注店铺有礼-JK
-  Script: jd_wxShopFollowActivity.py
+  Script: HarbourJ_HarbourToulu_main/jd_wxShopFollow.py
   TimeOut: 0
   Wait: 2
