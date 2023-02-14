@@ -854,3 +854,12 @@ js_config:
   Script: HarbourJ_HarbourToulu_main/jd_wxShopFollow.py
   TimeOut: 0
   Wait: 2
+  - Container:
+  - []
+  Env: jd_shopFollowGiftId
+  KeyWord:
+  - - jd_shopFollowGiftId
+  Name: 【船长】关注店铺有礼-JK
+  Script: HarbourJ_HarbourToulu_main/jd_shopFollowGift.py
+  TimeOut: 0
+  Wait: 2
