@@ -541,7 +541,6 @@ js_config:
   Env: jd_shopGifts_ids
   KeyWord:
   - - jd_shopGifts_ids
-  - - jd_shopFollowGiftId
   Name: 【环境】店铺礼包
   Script: jd_shopGifts.js
   TimeOut: 0
