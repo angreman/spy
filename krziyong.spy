@@ -62,9 +62,7 @@ js_config:
   Env: jd_cjhy_wxCollectionActivityId
   KeyWord:
   - - jd_cjhy_wxCollectionActivityId
-  - - jd_wxCollectionActivity_activityUrl
   Name: 【环境】cjhy加购物车
-  RegularRules: 'cjhy@[\d|a-z]{32}@0'
   Script: jd_cjhy_wxCollectionActivity.js
   TimeOut: 0
   Wait: 2
@@ -73,10 +71,17 @@ js_config:
   Env: jd_lzkj_wxCollectionActivityId
   KeyWord:
   - - jd_lzkj_wxCollectionActivityId
-  - - jd_wxCollectionActivity_activityUrl
   Name: 【环境】lzkj加购物车
-  RegularRules: 'lzkj@[\d|a-z]{32}@0'
   Script: jd_lzkj_wxCollectionActivity.js
+  TimeOut: 0
+  Wait: 2
+- Container:
+  - []
+  Env: jd_wxCollectionActivity_activityUrl
+  KeyWord:
+  - - jd_wxCollectionActivity_activityUrl
+  Name: 【KR】加购有礼通用-加密
+  Script: angreman_KR/jd_wxCollectionActivity.js
   TimeOut: 0
   Wait: 2
 - Container:
