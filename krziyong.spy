@@ -853,7 +853,7 @@ js_config:
   Script: HarbourJ_HarbourToulu_main/jd_wxShopFollow.py
   TimeOut: 0
   Wait: 2
-  - Container:
+- Container:
   - []
   Env: jd_shopFollowGiftId
   KeyWord:
