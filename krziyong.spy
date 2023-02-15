@@ -140,15 +140,6 @@ js_config:
   Wait: 5
 - Container:
   - []
-  Env: DPQDTK
-  KeyWord:
-  - - DPQDTK
-  Name: 【船长】店铺签到
-  Script: HarbourJ_HarbourToulu_main/jd_dpqd.js
-  TimeOut: 0
-  Wait: 2
-- Container:
-  - []
   Disable: 0
   Env: M_WX_LUCK_DRAW_URL
   KeyWord:
