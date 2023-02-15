@@ -858,3 +858,21 @@ js_config:
   Script: HarbourJ_HarbourToulu_main/jd_shopFollowGift.py
   TimeOut: 0
   Wait: 2
+- Container:
+  - []
+  Env: jd_cjhy_wxDrawActivity_Id
+  KeyWord:
+  - - jd_cjhy_wxDrawActivity_Id
+  Name: 【环境】cjhy幸运抽奖
+  Script: jd_cjhy_wxDrawActivity.js
+  TimeOut: 0
+  Wait: 2
+- Container:
+  - []
+  Env: jd_lzkj_wxDrawActivity_Id
+  KeyWord:
+  - - jd_lzkj_wxDrawActivity_Id
+  Name: 【环境】lzkj幸运抽奖
+  Script: jd_lzkj_wxDrawActivity.js
+  TimeOut: 0
+  Wait: 2
