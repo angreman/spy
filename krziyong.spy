@@ -113,15 +113,6 @@ js_config:
   Wait: 2
 - Container:
   - []
-  Env: DPLHTY
-  KeyWord:
-  - - DPLHTY
-  Name: 【环境】通用大牌联合开卡
-  Script: jd_opencardDPLHTY.js
-  TimeOut: 0
-  Wait: 2
-- Container:
-  - []
   Env: jd_cjhydz_microDz_Id
   KeyWord:
   - - jd_cjhydz_microDz_Id
