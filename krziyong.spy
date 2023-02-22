@@ -867,3 +867,12 @@ js_config:
   Script: jd_lzkj_wxDrawActivity.js
   TimeOut: 0
   Wait: 2
+- Container:
+  - []
+  Env: M_WX_COMPLETE_DRAW_URL
+  KeyWord:
+  - - M_WX_COMPLETE_DRAW_URL
+  Name: 【M库】M完善有礼
+  Script: walle1798_WALL.E/m_jd_wx_completeDraw.js
+  TimeOut: 0
+  Wait: 2
