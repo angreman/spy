@@ -885,3 +885,12 @@ js_config:
   Script: angreman_KR/jd_whx_drawShopGift.js
   TimeOut: 0
   Wait: 2
+- Container:
+  - []
+  Env: opencard_id
+  KeyWord:
+  - - opencard_id
+  Name: 【KR库】JoinCommon金币卡开卡专用
+  Script: angreman_KR/jd_opencardJBK.js
+  TimeOut: 0
+  Wait: 2
