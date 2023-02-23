@@ -876,3 +876,12 @@ js_config:
   Script: walle1798_WALL.E/m_jd_wx_completeDraw.js
   TimeOut: 0
   Wait: 2
+- Container:
+  - []
+  Env: whx_drawShopGift
+  KeyWord:
+  - - whx_drawShopGift
+  Name: 【搜刮】关注有礼-自动解析通用
+  Script: angreman_KR/jd_whx_drawShopGift.js
+  TimeOut: 0
+  Wait: 2
