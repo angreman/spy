@@ -821,3 +821,12 @@ js_config:
   Script: angreman_KR/jd_opencardJBK.js
   TimeOut: 0
   Wait: 2
+- Container:
+  - []
+  Env: M_INTERACT_INVITE_URL
+  KeyWord:
+  - - M_INTERACT_INVITE_URL
+  Name: 【M】M邀请有礼INTERACT
+  Script: walle1798_WALL.E/m_jd_interact_invite.js
+  TimeOut: 0
+  Wait: 5
