@@ -255,15 +255,6 @@ js_config:
   Wait: 2
 - Container:
   - []
-  Env: jd_joinCommonId
-  KeyWord:
-  - - jd_joinCommonId
-  Name: 【船长】通用开卡
-  Script: HarbourJ_HarbourToulu_main/jd_joinCommon_opencard.py
-  TimeOut: 0
-  Wait: 2
-- Container:
-  - []
   Env: jd_shopLeagueId
   KeyWord:
   - - jd_shopLeagueId
