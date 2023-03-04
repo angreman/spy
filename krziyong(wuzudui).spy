@@ -821,3 +821,21 @@ js_config:
   Script: walle1798_WALL.E/m_jd_interact_invite.js
   TimeOut: 0
   Wait: 5
+- Container:
+  - []
+  Env: jd_lzkj_interactsaas_qrqd_Ids
+  KeyWord:
+  - - jd_lzkj_interactsaas_qrqd_Ids
+  Name: 【环境】lzkj_interactsaas签到
+  Script: jd_lzkj_interactsaas_qrqd.js
+  TimeOut: 0
+  Wait: 5
+- Container:
+  - []
+  Env: jd_lzkj_interactsaas_rlqd_Ids
+  KeyWord:
+  - - jd_lzkj_interactsaas_rlqd_Ids
+  Name: 【环境】lzkj_interactsaas日历签到
+  Script: jd_lzkj_interactsaas_rlqd.js
+  TimeOut: 0
+  Wait: 5
