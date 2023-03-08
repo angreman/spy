@@ -19,7 +19,7 @@ js_config:
   Wait: 2
 - Container:
   - []
-  Env: jd_lzkjdz_wxTeam_Id
+  Env: jd_zdjr_activityId
   KeyWord:
   - - jd_lzkjdz_wxTeam_Id
   Name: 【Faker】lz组队瓜分
@@ -28,7 +28,7 @@ js_config:
   Wait: 2
 - Container:
   - []
-  Env: jd_cjhydz_wxTeam_Id
+  Env: jd_cjhy_activityId
   KeyWord:
   - - jd_cjhydz_wxTeam_Id
   Name: 【Faker】CJ组队瓜分
