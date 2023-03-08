@@ -642,6 +642,7 @@ js_config:
   Wait: 2
 - Container:
   - []
+  Disable: 0
   Env: jd_daily_activityId
   KeyWord:
   - - jd_daily_activityId
@@ -651,6 +652,7 @@ js_config:
   Wait: 2
 - Container:
   - []
+  Disable: 0
   Env: jd_cjdaily_activityId
   KeyWord:
   - - jd_cjdaily_activityId
