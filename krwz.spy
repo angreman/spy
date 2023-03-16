@@ -77,6 +77,7 @@ js_config:
   Wait: 2
 - Container:
   - []
+  Disable: 1
   Env: jd_wxCollectionActivity_activityUrl
   KeyWord:
   - - jd_wxCollectionActivity_activityUrl
@@ -135,6 +136,7 @@ js_config:
   Env: M_WX_LUCK_DRAW_URL
   KeyWord:
   - - M_WX_LUCK_DRAW_URL
+  - - LUCK_DRAW_URL
   Name: 【M系】幸运抽奖
   OverdueTime: 1800
   Script: walle1798_WALL.E/m_jd_wx_luckDraw.js
@@ -147,6 +149,7 @@ js_config:
   KeyWord:
   - - M_WX_ADD_CART_URL
   - - jd_wxCollectionActivityUrl
+  - - jd_wxCollectionActivity_activityUrl
   Name: 【M系】加购有礼
   OverdueTime: 1800
   Script: walle1798_WALL.E/m_jd_wx_addCart.js
@@ -454,6 +457,7 @@ js_config:
   Wait: 2
 - Container:
   - []
+  Disable: 1
   Env: LUCK_DRAW_URL
   KeyWord:
   - - LUCK_DRAW_URL
