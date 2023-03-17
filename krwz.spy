@@ -873,3 +873,13 @@ js_config:
   Script: jd_loreal_interact_ljqdysl.js
   TimeOut: 0
   Wait: 10
+  - Container:
+  - []
+  Env: JD_Lottery_cart
+  KeyWord:
+  - - JD_Lottery_cart
+  Name: 【KR库】京东抽奖机加购
+  Script: angreman_KR/jd_lottery_cart.js
+  TimeOut: 0
+  Wait: 10
+  
