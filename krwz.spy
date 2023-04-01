@@ -873,7 +873,7 @@ js_config:
   Script: jd_loreal_interact_ljqdysl.js
   TimeOut: 0
   Wait: 10
- - Container:
+- Container:
   - []
   Env: JD_Lottery_cart
   KeyWord:
@@ -882,4 +882,12 @@ js_config:
   Script: angreman_KR/jd_lottery_cart.js
   TimeOut: 0
   Wait: 10
-  
+- Container:
+  - []
+  Env: M_FANS_RED_PACKET_URL
+  KeyWord:
+  - - M_FANS_RED_PACKET_URL
+  Name: 【M库】M完善有礼
+  Script: walle1798_WALL.E/m_jd_fans_redPackt.js.js
+  TimeOut: 0
+  Wait: 10
