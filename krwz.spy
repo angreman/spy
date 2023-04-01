@@ -873,7 +873,7 @@ js_config:
   Script: jd_loreal_interact_ljqdysl.js
   TimeOut: 0
   Wait: 10
-  - Container:
+ - Container:
   - []
   Env: JD_Lottery_cart
   KeyWord:
