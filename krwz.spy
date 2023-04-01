@@ -887,7 +887,7 @@ js_config:
   Env: M_FANS_RED_PACKET_URL
   KeyWord:
   - - M_FANS_RED_PACKET_URL
-  Name: 【M库】M完善有礼
-  Script: walle1798_WALL.E/m_jd_fans_redPackt.js.js
+  Name: 【M库】M粉丝红包
+  Script: walle1798_WALL.E/m_jd_fans_redPackt.js
   TimeOut: 0
   Wait: 10
