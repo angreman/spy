@@ -28,6 +28,7 @@ js_config:
   Wait: 10
 - Container:
   - []
+  Disable: 1
   Env: jd_wxKnowledgeActivity_activityUrl
   KeyWord:
   - - jd_wxKnowledgeActivity_activityUrl
@@ -888,6 +889,16 @@ js_config:
   KeyWord:
   - - M_FANS_RED_PACKET_URL
   Name: 【M库】M粉丝红包
+  Script: walle1798_WALL.E/m_jd_fans_redPackt.js
+  TimeOut: 0
+  Wait: 10
+- Container:
+  - []
+  Env: M_WX_KNOWLEDGE_URL
+  KeyWord:
+  - - M_WX_KNOWLEDGE_URL
+  - - jd_wxKnowledgeActivity_activityUrl
+  Name: 【M库】M知识超人
   Script: walle1798_WALL.E/m_jd_fans_redPackt.js
   TimeOut: 0
   Wait: 10
