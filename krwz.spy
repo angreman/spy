@@ -902,3 +902,12 @@ js_config:
   Script: walle1798_WALL.E/m_jd_fans_redPackt.js
   TimeOut: 0
   Wait: 10
+- Container:
+  - []
+  Env: jd_shopDraw_activityUrl
+  KeyWord:
+  - - jd_shopDraw_activityUrl
+  Name: 【KR库】店铺左侧刮刮乐
+  Script: angreman_KR/jd_shopDraw.js
+  TimeOut: 0
+  Wait: 10
