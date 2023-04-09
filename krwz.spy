@@ -107,9 +107,9 @@ js_config:
   Wait: 10
 - Container:
   - []
-  Env: jd_mhurlLis
+  Env: jd_mhurlList
   KeyWord:
-  - - jd_mhurlLis
+  - - jd_mhurlList
   Name: 【抽奖】盲盒抽京豆
   Script: jd_mhtask.js
   TimeOut: 0
@@ -357,7 +357,7 @@ js_config:
   Env: jd_cjhy_sevenDay_ids
   KeyWord:
   - - jd_cjhy_sevenDay_ids
-  Name: 【环境】cjhy 七日签到
+  Name: 【环境】cjhy七日签到
   Script: jd_cjhy_sevenDay.js
   TimeOut: 0
   Wait: 10
@@ -769,7 +769,7 @@ js_config:
   Env: jd_shopFollowGiftId
   KeyWord:
   - - jd_shopFollowGiftId
-  Name: 【船长】关注店铺有礼-JK
+  Name: 【船长】关注有礼-JK
   Script: HarbourJ_HarbourToulu_main/jd_shopFollowGift.py
   TimeOut: 0
   Wait: 10
@@ -899,7 +899,7 @@ js_config:
   - - M_WX_KNOWLEDGE_URL
   - - jd_wxKnowledgeActivity_activityUrl
   Name: 【M库】M知识超人
-  Script: walle1798_WALL.E/m_jd_fans_redPackt.js
+  Script: walle1798_WALL.E/m_jd_wx_knowledge.js
   TimeOut: 0
   Wait: 10
 - Container:
